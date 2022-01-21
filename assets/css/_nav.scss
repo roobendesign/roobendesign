@@ -1,0 +1,13 @@
+nav {
+    border: 1px solid black;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 73px;
+    
+    a {
+        color: #000;
+        margin-right: 37px;
+        text-decoration: none;
+    }
+}

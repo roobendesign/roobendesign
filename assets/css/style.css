@@ -1,0 +1,181 @@
+.arrows-container {
+  border: 1px solid green;
+  max-width: 1130px;
+  margin: 0 auto;
+}
+
+.arrows-container .arrows-title {
+  font-size: 48px;
+  font-weight: 500;
+  max-width: 570px;
+}
+
+.icon-container {
+  max-width: 800px;
+  border: 1px solid black;
+  height: 500px;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  padding-top: 20px;
+}
+
+.icon-container .icon-section {
+  border: 1px solid black;
+  width: 100px;
+  height: 120px;
+}
+
+.icon-container .icon-section .icon {
+  height: 75px;
+  width: 75px;
+  background: #F4F4F4;
+  margin: auto;
+  border-radius: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.icon-container .icon-section .icon img {
+  max-width: 30%;
+}
+
+.icon-container .icon-section .icon .horizontal {
+  max-width: 50%;
+}
+
+.icon-container .icon-section p {
+  text-align: center;
+  margin-top: 11px;
+}
+
+.icon-container .icon-section p a {
+  text-decoration: none;
+  color: #000;
+  font-size: 12px;
+}
+
+body {
+  font-family: 'Archivo';
+  margin: 0;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+}
+
+.homepage-title {
+  max-width: 570px;
+  font-weight: 500;
+}
+
+.home-page-hero {
+  height: 545px;
+  border: 1px solid black;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.home-page-hero .inner-container {
+  border: 1px solid black;
+  height: 334px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.home-page-hero .inner-container h1 {
+  font-size: 48px;
+}
+
+.home-page-hero .inner-container p {
+  margin-top: 32px;
+  max-width: 536px;
+}
+
+.skills-section {
+  height: 420px;
+  border: 1px solid black;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.skills-section .skill-intro {
+  border: 1px solid black;
+  max-width: 287px;
+}
+
+.skills-section .skill-intro p {
+  max-width: 390px;
+}
+
+.projects-section {
+  border: 1px solid black;
+  height: 600px;
+}
+
+.projects-section h3 {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.projects-section .project {
+  width: 377px;
+  border: 1px solid black;
+}
+
+.projects-section .project .project-img {
+  height: 300px;
+  width: 375px;
+  background: #D7D7D7;
+}
+
+.projects-section .project p {
+  max-width: 270px;
+}
+
+nav {
+  border: 1px solid black;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 73px;
+}
+
+nav a {
+  color: #000;
+  margin-right: 37px;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+* {
+  border: 0 !important;
+}
+/*# sourceMappingURL=style.css.map */
