@@ -5,8 +5,8 @@
 @mixin tablet {
 @media (min-width: 767px) { @content; }
 }
-@mixin for-tablet-landscape-up {
-@media (min-width: 900px) { @content; }
+@mixin laptop {
+@media (min-width: 1280px) { @content; }
 }
 
 @import 'arrows';
@@ -23,3 +23,21 @@
 .full-container {
     width: 100%;
 }
+
+h1 {
+    font-size: 24px !important;
+    font-weight: 500 !important;
+
+    @include tablet {    
+        font-size: 36px !important;
+    }
+
+    @include laptop {    
+        font-size: 48px !important;
+    }
+}
+
+* {
+    border: 0 !important;
+}
+

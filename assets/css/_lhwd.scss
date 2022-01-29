@@ -2,21 +2,45 @@
     height: 545px;
 
     .container {
-        border: 1px solid white;
+        border: 1px solid red;
 
         .hero {
-            border: 1px solid white;
+            border: 1px solid orange;
             display: flex;
             height: 475px;
             align-items: center;
+            flex-direction: column;
+
+            @include tablet {    
+                flex-direction: row;
+                justify-content: space-around;
+            } 
+
+            @include laptop {    
+                flex-direction: row;
+                justify-content: flex-start;
+            }
+
             
             .hero__left {
-                width: 50%;
-            
+                border: 1px solid yellow;
+                margin: 60px 50px 0;
+
+                @include tablet {    
+                    max-width: 425px
+                }
+
+                @include laptop {    
+                    max-width: 600px
+                }
+
+                img {
+                    max-width: 32px;
+                }
+
                 h1 {
                     font-weight: 400;
                     font-size: 36px;
-                    max-width: 454px;
                     margin-bottom: 25px;
                     color: #000;
                 }
@@ -28,11 +52,13 @@
             }
 
             .hero__right {
-                width: 50%;
                 text-align: center;
+                border: 1px solid black;
+                margin-top: 34px;
 
                 img {
-                    max-width: 60%;
+                    width: 99%;
+                    max-width: 320px;
                 }
             }
         }
@@ -46,37 +72,46 @@
     .service-section-inner {
         border: 2px solid gold;
 
+
+        @include laptop {    
+            display: flex;
+        }
+        
         .services__title {
             max-width: 485px;
             height: 250px;
             border: 1px solid black;
-            margin: 0 auto;
+            margin: 150px auto 0;
+
+            
         
             .services__title-inner {
                 margin: 40px 20px 0;
                 text-align: center;
                 border: 2px solid gold;
 
+                @include laptop {    
+                    text-align: left;
+                    margin: 0;
+
+                }
+
                 h2 {
                     max-width: 390px;
                     font-weight: 400;
-                    text-align: center;
                     line-height: 125%;
-                    margin: 0 auto;
                 }
 
                 p {
                     max-width: 420px;
                     font-size: 14px;
                     line-height: 150%;
-                    margin: 0 auto;
                 }
             }
         }
         
         .services {
             justify-content: space-between;
-            height: 600px;
             border: 2px solid gold;
             max-width: 400px;
             margin: 0 auto;
@@ -100,7 +135,7 @@
                 
         
                 .inner-service {
-                    width: 200px;
+                    width: 220px;
                     margin: 65px auto 0;
 
                     h3 {
