@@ -1,3 +1,6 @@
+body {
+    overflow-x: hidden !important;
+}
 
 @mixin phone {
 @media (max-width: 599px) { @content; }
@@ -9,9 +12,15 @@
 @media (min-width: 1280px) { @content; }
 }
 
+@mixin center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
 @import 'arrows';
 @import 'base';
-@import 'homepage';
+@import 'homepage/homepage';
 @import 'nav';
 @import 'lhwd';
 
@@ -25,19 +34,23 @@
 }
 
 h1 {
-    font-size: 24px !important;
+    font-size: 36px !important;
     font-weight: 500 !important;
 
     @include tablet {    
-        font-size: 36px !important;
-    }
-
-    @include laptop {    
         font-size: 48px !important;
     }
+}
+
+h2 {
+    font-size: 24px !important;
+
+}
+
+p {
+    font-size: 16px !important;
 }
 
 * {
     border: 0 !important;
 }
-

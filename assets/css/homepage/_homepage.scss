@@ -1,0 +1,68 @@
+@import 'hp-hero';
+
+.hp-container {
+    max-width: 1180px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.hp-section {
+    margin-top: 100px;
+
+}
+
+.hp-about-section {
+    border: 1px solid black;
+    max-width: 1180px;
+    margin: 0 auto;
+    text-align: center;
+
+    
+    @include tablet {    
+        display: flex;
+        flex-direction: column;
+    }
+
+    p {
+        line-height: 150%;
+    }
+
+    .hp-projects,.hp-about,.hp-tech {
+        border: 1px solid black;
+        max-width: 450px;
+        margin-top: 49px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+        
+        .hp-title {
+            display: flex;
+        }
+    
+        h2 {
+            color: #212B61;
+            margin-left: 14px;
+            font-weight: 700 !important;
+        }
+    
+        p {
+            color: #302C2C;
+            margin-top: 50px;
+        }
+    }
+}
+
+.hp-about {
+    @include tablet {    
+        margin-left: 0 !important;
+        margin-right: auto !important;
+    }
+}
+
+.hp-tech {
+    @include tablet {    
+        margin-left: auto !important;
+        margin-right: 0 !important;
+    }
+}
+
