@@ -14,3 +14,4 @@ sass:
 theme: 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
