@@ -30,7 +30,7 @@ body {
 
 .icons {
   max-width: 755px !important;
-  margin-top: 125px !important;
+  margin-top: 75px !important;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -41,7 +41,7 @@ body {
           justify-content: center;
   position: relative;
   border: 1px solid black;
-  padding: 0 20px;
+  padding: 0 20px 50px;
 }
 
 .icons .icon {
