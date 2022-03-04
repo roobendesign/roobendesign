@@ -1,68 +1,5 @@
 body {
   overflow-x: hidden !important;
-}
-
-.arrows {
-  border: 1px solid green;
-  max-width: 470px !important;
-  margin: 0 auto;
-  height: 168px;
-  text-align: center;
-}
-
-.arrows span {
-  font-weight: 600;
-}
-
-.arrows .arrows-title {
-  font-size: 48px;
-  font-weight: 500;
-  max-width: 570px;
-  margin-bottom: 50px;
-}
-
-.icons {
-  max-width: 968px !important;
-  border: 1px solid black;
-  margin-top: 125px !important;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-}
-
-.icons .icon-background {
-  height: 165px;
-  width: 165px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-}
-
-.icons .icon-background:hover {
-  background: #EFEFEF;
-}
-
-.icons .icon-background .icon-section {
-  width: 70px;
-  height: 70px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-}
-
-body {
   font-family: 'Archivo';
   margin: 0;
 }
@@ -71,6 +8,109 @@ body {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   margin: 0;
+}
+
+.arrows {
+  border: 1px solid green;
+  max-width: 470px !important;
+  margin: 50px auto 0;
+  height: 168px;
+  text-align: center;
+}
+
+.arrows span {
+  font-weight: 600;
+}
+
+.arrows h1 {
+  font-weight: 700;
+  max-width: 570px;
+  margin-bottom: 30px;
+}
+
+.icons {
+  max-width: 755px !important;
+  margin-top: 125px !important;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: relative;
+  border: 1px solid black;
+  padding: 0 20px;
+}
+
+.icons .icon {
+  position: relative;
+  height: 150px;
+  width: 150px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-transition: .25s;
+  transition: .25s;
+}
+
+.icons .icon:hover {
+  background: #EFEFEF;
+}
+
+.icons .download {
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  opacity: 0;
+  border: 0;
+  -webkit-transition: 1.25s;
+  transition: 1.25s;
+}
+
+.icons .download:hover {
+  opacity: 1;
+}
+
+.icons .download a {
+  position: absolute;
+  height: 30px;
+  width: 30px;
+  background: #49B754;
+  border: 1px solid #A4DBAA;
+  right: 0;
+  margin-right: 10px;
+  margin-top: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.icons .download a:hover {
+  background: #2e9138;
+}
+
+.icons .download a img {
+  max-width: 11.5px;
+}
+
+* {
+  border: 0 !important;
 }
 
 .hp-hero-section {
@@ -534,6 +574,6 @@ p {
 }
 
 * {
-  border: 0 !important;
+  border: none !important;
 }
 /*# sourceMappingURL=style.css.map */
