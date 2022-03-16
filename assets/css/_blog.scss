@@ -1,0 +1,42 @@
+.blog-title {
+    border: 1px solid black;
+    max-width: 1240px !important;
+
+    h1 {
+        color: #212B61;
+    }
+
+    p {
+        color: #848484;
+        margin-top: 30px;
+        line-height: 150%;
+    }
+}
+
+.blog {
+    width: 95%; 
+    border: 1px solid #000;
+
+    @include tablet {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap-reverse;
+    }
+
+    .blog-entry {
+        margin: 0 auto;
+        padding: 0;
+        width: 360px;
+        border: 1px solid red;
+
+        .blog-description {
+            p {
+                color: #848484;
+            }
+        }
+    }
+}
+
+img {
+    max-width: 360px;
+}

@@ -41,69 +41,21 @@ layout: default
 
 </div>
 
-<div class="full-container hp-section">
 
-   <div class="inner-container hp-about-section">
+<div class="hp-container recent-blog-post">
+   <h2>Recent Blog Post</h2>
 
-      <div class="hp-about">
-         <div class="hp-title">
-            <img src="/assets/homepage/about.svg" alt="">
-            <h2>About Me</h2>
-         </div>
-         
-         <div class="hp-about-para">
-            <p>
-               <strong>Hello!</strong> My name is Ruben Gutierrez and I am a computer nerd.
-               <br>
-               <br>
-               I’ve been working on computers since the age of 6.  I enjoy the challenge of a new problem and enjoy working with others. 
-               <br>
-               <br>
-               Check out my blog I’m constantly posting my thoughts on my blog.
-            </p>
-         </div>
-      </div>
+   {% for post in site.posts %}
+      {% if post.categories contains 'blog-post' %}
+            <div class="homepage-recent-blog">
+               <a href="{{ post.url | absolute_url}}">
+                  <h2>{{post.title}}</h2>
+               </a>
 
-      <div class="hp-tech">
-         <div class="hp-title">
-            <img src="/assets/homepage/technologies.svg" alt="">
-            <h2>Technologies</h2>
-         </div>
-
-         <div class="hp-tech-paragraph">
-            <p>My computer skills are pretty well rounded when it comes
-               to both hardware and softwares.  
-               
-               Below are some of the technologies I’m familiar with
-            </p>
-         </div>
-         
-      </div>
-
-      <div class="hp-projects">
-
-         <div class="hp-title">
-            <img src="/assets/homepage/idea.svg" alt="">
-            <h2>Projects</h2>
-         </div>
-
-         <div>
-            <p>
-               In this section you can find some of the things I’m either working on or past projects.  
-            </p>
-         </div>
-
-         <!-- <div class="hp-project">
-            <img src="/assets/arrows.png" alt="">
-            <h3>SVG Arrows</h3>
-            <p>A collection of 'Arrow' Icons availble for Download in SVG Format. Frequently updated</p>
-            <a href="/svg-arrows">Check It Out ></a>
-         </div> -->
-
-         
-      </div>
-      
-   </div>
-
+               <p>{{ post.date | date: "%-d %-B %Y" }}</p>
+            </div>
+      {% endif %}
+   {% endfor %}
 </div>
+
 

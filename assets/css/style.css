@@ -28,6 +28,10 @@ body {
   margin-bottom: 30px;
 }
 
+.arrows p {
+  margin-bottom: 15px;
+}
+
 .icons {
   max-width: 755px !important;
   margin-top: 75px !important;
@@ -107,10 +111,6 @@ body {
 
 .icons .download a img {
   max-width: 11.5px;
-}
-
-* {
-  border: 0 !important;
 }
 
 .hp-hero-section {
@@ -207,6 +207,7 @@ body {
 .hp-hero-section {
   border: 1px solid black;
   text-align: center;
+  margin-bottom: 200px !important;
 }
 
 .homepage-contact {
@@ -266,69 +267,38 @@ body {
 
 .hp-section {
   margin-top: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
-.hp-about-section {
+.recent-blog-post {
   border: 1px solid black;
-  max-width: 1180px;
-  margin: 0 auto;
-  text-align: center;
+  height: 200px;
 }
 
-@media (min-width: 767px) {
-  .hp-about-section {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
-  }
-}
-
-.hp-about-section p {
-  line-height: 150%;
-}
-
-.hp-about-section .hp-projects, .hp-about-section .hp-about, .hp-about-section .hp-tech {
+.recent-blog-post .homepage-recent-blog {
   border: 1px solid black;
-  max-width: 450px;
-  margin-top: 49px;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: left;
-}
-
-.hp-about-section .hp-projects .hp-title, .hp-about-section .hp-about .hp-title, .hp-about-section .hp-tech .hp-title {
+  max-width: 750px;
+  margin-top: 20px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  margin: 0 auto;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
 }
 
-.hp-about-section .hp-projects h2, .hp-about-section .hp-about h2, .hp-about-section .hp-tech h2 {
-  color: #212B61;
-  margin-left: 14px;
-  font-weight: 700 !important;
+.recent-blog-post .homepage-recent-blog p {
+  font-size: 16px !important;
 }
 
-.hp-about-section .hp-projects p, .hp-about-section .hp-about p, .hp-about-section .hp-tech p {
-  color: #302C2C;
-  margin-top: 50px;
+.recent-blog-post .homepage-recent-blog a {
+  text-decoration: none;
 }
 
-@media (min-width: 767px) {
-  .hp-about {
-    margin-left: 0 !important;
-    margin-right: auto !important;
-  }
-}
-
-@media (min-width: 767px) {
-  .hp-tech {
-    margin-left: auto !important;
-    margin-right: 0 !important;
-  }
+.recent-blog-post .homepage-recent-blog a h2 {
+  font-size: 16px !important;
 }
 
 nav {
@@ -545,6 +515,69 @@ nav a {
   line-height: 125%;
 }
 
+.blog-title {
+  border: 1px solid black;
+  max-width: 1240px !important;
+}
+
+.blog-title h1 {
+  color: #212B61;
+}
+
+.blog-title p {
+  color: #848484;
+  margin-top: 30px;
+  line-height: 150%;
+}
+
+.blog {
+  width: 95%;
+  border: 1px solid #000;
+}
+
+@media (min-width: 767px) {
+  .blog {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -ms-flex-wrap: wrap-reverse;
+        flex-wrap: wrap-reverse;
+  }
+}
+
+.blog .blog-entry {
+  margin: 0 auto;
+  padding: 0;
+  width: 360px;
+  border: 1px solid red;
+}
+
+.blog .blog-entry .blog-description p {
+  color: #848484;
+}
+
+img {
+  max-width: 360px;
+}
+
+.post {
+  max-width: 700px;
+  margin: 100px auto 200px;
+  padding: 0 20px;
+}
+
+.post header {
+  margin-bottom: 20px;
+}
+
+.post p {
+  margin-bottom: 20px;
+  letter-spacing: .2px;
+}
+
 .container {
   max-width: 1280px;
   margin: 0 auto;
@@ -574,6 +607,6 @@ p {
 }
 
 * {
-  border: none !important;
+  border: 0 !important;
 }
 /*# sourceMappingURL=style.css.map */

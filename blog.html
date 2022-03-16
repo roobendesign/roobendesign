@@ -4,8 +4,28 @@ title: About
 permalink: /blog/
 ---
 
-<div class="container">
-    <h1>Thoughts</h1>
+<div class="container blog-title">
+    <h1>What I'm Up Too</h1>
+    <p>Below are entries about current projects I’m working on along with thoughts</p>
 
-    <a href="/la-habra-web-design"></a>
+    <div class="blog">
+        {% for post in site.posts %}
+            {% if post.categories contains 'blog-post' %}
+                <div class="blog-entry">
+                    <div class="image">
+                        <img src="/assets/filler.png" alt="">
+                    </div>
+                    <div class="blog-info">
+                        <h2>{{post.title}}</h2>
+                    </div>
+                    <a href="{{ post.url | absolute_url}}" class="blog-description">
+                        <p>{{post.description}}</p>
+                    </a>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
 </div>
+
+
+
