@@ -565,7 +565,7 @@ img {
 
 .post {
   max-width: 700px;
-  margin: 100px auto 200px;
+  margin: 100px auto 125px;
   padding: 0 20px;
 }
 
@@ -576,6 +576,7 @@ img {
 .post p {
   margin-bottom: 20px;
   letter-spacing: .2px;
+  line-height: 125% !important;
 }
 
 .container {
