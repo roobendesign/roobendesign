@@ -40,6 +40,11 @@
             h2 {
                 max-width: 445px;
                 line-height: 150%;
+                font-size: 18px !important;
+
+                @include tablet {
+                    font-size: 24px !important;
+                }
             }
         }
 
@@ -47,6 +52,11 @@
             color: #848484;
             margin-top: 15px;
             line-height: 150%;
+            font-size: 14px !important;
+
+            @include tablet {
+                font-size: 18pxho;
+            }
         }
     }
 }

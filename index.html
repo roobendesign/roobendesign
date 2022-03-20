@@ -46,15 +46,18 @@ layout: default
    <h2>Recent Blog Post</h2>
 
    {% for post in site.posts %}
-      {% if post.categories contains 'blog-post' %}
-            <div class="homepage-recent-blog">
-               <a href="{{ post.url | absolute_url}}">
-                  <h2>{{post.title}}</h2>
-               </a>
+   {% if post.categories contains 'blog-post' %}
+   <div class="hp-recent-post"> 
 
-               <p>{{ post.date | date: "%-d %-B %Y" }}</p>
-            </div>
-      {% endif %}
+      <a href="{{ post.url | absolute_url }}">
+         <h3>{{post.title}}</h3>
+      </a>
+
+      <p>{{post.description}}</p>
+
+
+   </div>
+   {% endif %}
    {% endfor %}
 </div>
 

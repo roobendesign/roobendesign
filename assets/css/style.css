@@ -211,7 +211,7 @@ html {
 .hp-hero-section {
   border: 1px solid black;
   text-align: center;
-  margin-bottom: 200px !important;
+  margin-bottom: 100px !important;
 }
 
 .homepage-contact {
@@ -277,32 +277,39 @@ html {
 
 .recent-blog-post {
   border: 1px solid black;
-  height: 200px;
+  margin-bottom: 100px;
 }
 
-.recent-blog-post .homepage-recent-blog {
+.recent-blog-post h2 {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.recent-blog-post .hp-recent-post {
   border: 1px solid black;
   max-width: 750px;
   margin-top: 20px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  margin: 0 auto;
+  margin: 0 auto 20px;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
+  padding: 0 20px;
 }
 
-.recent-blog-post .homepage-recent-blog p {
-  font-size: 16px !important;
-}
-
-.recent-blog-post .homepage-recent-blog a {
+.recent-blog-post .hp-recent-post a {
   text-decoration: none;
+  color: #000 !important;
 }
 
-.recent-blog-post .homepage-recent-blog a h2 {
+.recent-blog-post .hp-recent-post a h2 {
   font-size: 16px !important;
+  color: #000 !important;
+}
+
+.recent-blog-post .hp-recent-post p {
+  font-size: 16px !important;
+  color: #474747;
+  margin-top: 15px;
 }
 
 nav {
@@ -563,12 +570,26 @@ nav a {
 .blog .blog-entry a h2 {
   max-width: 445px;
   line-height: 150%;
+  font-size: 18px !important;
+}
+
+@media (min-width: 767px) {
+  .blog .blog-entry a h2 {
+    font-size: 24px !important;
+  }
 }
 
 .blog .blog-entry p {
   color: #848484;
   margin-top: 15px;
   line-height: 150%;
+  font-size: 14px !important;
+}
+
+@media (min-width: 767px) {
+  .blog .blog-entry p {
+    font-size: 18pxho;
+  }
 }
 
 .post {
