@@ -62,3 +62,22 @@ layout: default
 </div>
 
 
+
+<div class="hp-container recent-blog-post">
+   <h2>Projects</h2>
+
+   {% for post in site.posts %}
+   {% if post.categories contains 'project' %}
+   <div class="hp-recent-post"> 
+
+      <a href="{{ post.url | absolute_url }}">
+         <h3>{{post.title}}</h3>
+      </a>
+
+      <p>{{post.description}}</p>
+
+
+   </div>
+   {% endif %}
+   {% endfor %}
+</div>
