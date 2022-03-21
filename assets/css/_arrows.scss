@@ -1,9 +1,12 @@
 .arrows {
     border: 1px solid green;
-    max-width: 470px !important;
+    max-width: 470px ;
     margin: 50px auto 0;
-    height: 200px;
     text-align: center;
+
+    @include tablet {
+        max-width: 500px !important;
+    }
 
     span {
         font-weight: 600;
@@ -38,6 +41,10 @@
     position: relative;
     border: 1px solid black;
     padding: 0 20px 50px;
+
+    @include laptop {
+        max-width: 900px !important;
+    }
 
     .icon {
         position: relative;

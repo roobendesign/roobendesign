@@ -16,10 +16,15 @@ html {
 
 .arrows {
   border: 1px solid green;
-  max-width: 470px !important;
+  max-width: 470px;
   margin: 50px auto 0;
-  height: 200px;
   text-align: center;
+}
+
+@media (min-width: 767px) {
+  .arrows {
+    max-width: 500px !important;
+  }
 }
 
 .arrows span {
@@ -54,6 +59,12 @@ html {
   position: relative;
   border: 1px solid black;
   padding: 0 20px 50px;
+}
+
+@media (min-width: 1280px) {
+  .icons {
+    max-width: 900px !important;
+  }
 }
 
 .icons .icon {
