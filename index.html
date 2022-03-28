@@ -2,73 +2,34 @@
 layout: default
 ---
 
-<div class="hp-container hp-hero-section">
 
-   <div class="inner-container">
 
-      <div class="hp-hero">
+<div class="container home-page-blog">
 
-         <h1>
-            <span class="pre-title">HELLO! I'M</span> <br>
-            <span class="name">Ruben Gutierrez</span> <br>
-            <span class="profession">A Website Designer</span> <br>
-            <span class="post">Focused on Website Design</span> <br>
-         </h1>
+   <div class="recent-posts">
 
-      </div>
+   {% for post in site.posts %}
+      {% if post.categories contains 'blog-post' %}
+         <div class="post-container"> 
+
+            <div class="home-page-post">
+
+                  <a href="{{ post.url | absolute_url }}">
+                     <h3>{{post.title | truncatewords: 10}}</h3>
+                  </a>
+         
+                  <p>{{post.description}}</p>
+
+            </div>
    
-   </div>
-
-   <div class="homepage-contact">
-      <div class="email">
-         <img src="/assets/homepage/email.svg" alt="">
-         <p>roobendesign@gmail.com</p>
-      </div>
-      <div class="phone">
-         <img src="/assets/homepage/phone.svg" alt="">
-         <p>1 (562) 451-7656</p>
-      </div>
-   </div>
-
-</div>
-
-
-<div class="hp-container recent-blog-post">
-   <h2>Recent Blog Post</h2>
-
-   {% for post in site.posts %}
-   {% if post.categories contains 'blog-post' %}
-   <div class="hp-recent-post"> 
-
-      <a href="{{ post.url | absolute_url }}">
-         <h3>{{post.title}}</h3>
-      </a>
-
-      <p>{{post.description}}</p>
-
-
-   </div>
-   {% endif %}
+         </div>
+      
+      {% endif %}
    {% endfor %}
-</div>
-
-
-
-<div class="hp-container recent-blog-post">
-   <h2>Projects</h2>
-
-   {% for post in site.posts %}
-   {% if post.categories contains 'project' %}
-   <div class="hp-recent-post"> 
-
-      <a href="{{ post.url | absolute_url }}">
-         <h3>{{post.title}}</h3>
-      </a>
-
-      <p>{{post.description}}</p>
-
-
    </div>
-   {% endif %}
-   {% endfor %}
 </div>
+
+
+
+
+

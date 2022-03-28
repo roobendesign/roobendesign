@@ -5,11 +5,22 @@
 
     header {
         margin-bottom: 20px;
+
+        h1{
+            font-weight: 800 !important;
+            font-size: 36px !important; 
+            margin-bottom: 16px;
+        }
     }
 
-    p {
+    p, li {
         margin-bottom: 20px;
         letter-spacing: .2px;
-        line-height: 125% !important;
+        line-height: 1.5 !important;
+    }
+    
+
+    ul,h2,h3,h4 {
+        margin-bottom: 20px !important;
     }
 }

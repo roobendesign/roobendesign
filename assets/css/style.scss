@@ -1,35 +1,22 @@
-@import 'base';
+
 @import 'mixins';
+@import 'base';
 @import 'arrows';
-@import 'homepage/homepage';
+@import 'homepage';
 @import 'nav';
 @import 'lhwd';
 @import 'blog';
 @import 'post';
 
-.container {
-    max-width: 1280px;
-    margin: 0 auto;
+* {
+    border: 0 !important;
 }
 
-.full-container {
-    width: 100%;
+.transition-fade  {
+    opacity: 1;
+    transition: 500ms;
 }
 
-h1 {
-    font-size: 36px !important;
-    font-weight: 500 !important;
-
-    @include tablet {    
-        font-size: 48px !important;
-    }
-}
-
-h2 {
-    font-size: 24px !important;
-
-}
-
-p {
-    font-size: 16px !important;
+html.is-animating .transition-fade {
+    opacity: 0;
 }
