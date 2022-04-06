@@ -8,8 +8,12 @@
 @import 'blog';
 @import 'post';
 
-* {
-    border: 0 !important;
+.border {
+    border: 1px solid black;
+}
+
+.padding {
+    padding: 10px;
 }
 
 .transition-fade  {
@@ -19,4 +23,27 @@
 
 html.is-animating .transition-fade {
     opacity: 0;
+}
+
+// Center 
+.center {
+    margin: 0 auto;
+}
+
+h1,h2,h3 {
+    color: #000;
+}
+
+.flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-1 {
+    display: flex;
+    
+    .child {
+        width: 50%;
+    }
 }
