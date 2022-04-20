@@ -1,40 +1,71 @@
+.home-page-hero {
+    background: #f2f2f2;
+    .home-page-hero-inner-container {
+        max-width: 1100px;
+        margin: 0 auto;
+        h1 {
+            padding: 50px 10px;
+    
+            span {
+                font-size: 12px;
+            }
+    
+            .hero-name {
+                font-size: 32px;
+                font-weight: 800;
+            }
+        }
+    }
+}
+
 .home-page-blog {   
     
     .hp-posts {
-        width: 90%;
-        height: 60%;
-
-        @include phablet {
-            display: flex;
-            flex-wrap: wrap;
-        }
-
-        @include laptop {
-            width: 100%;
-
-        }
+        max-width: 1100px;
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 30px;
+        margin-bottom: 500px;
 
         .hp-post {
-            max-width: 415px;
-
-            @include laptop {
-                max-width: 320px;
-            }
 
             a {
                 
                 h3 {
-                    margin-top: 10px;
-                    font-size: 20px;
+                    min-height: 57px;
+                    line-height: 150%;
+
+                    &:hover {
+                        color: #383737;
+                    }
                 }
             }
 
             p {
                 margin-top: 27px;
+                font-size: 14px !important;
                 color: #383737;
+                line-height: 150%;
+                font-weight: 500;
             }
         }
         
     }
 }
 
+.home-page-blog-post-title {
+    font-size: 14px !important;
+    font-weight: 800;
+
+    @include phablet {
+        font-size: 18px !important;
+    }
+}
+
+.hp-post {
+    width: 50%;
+    
+    @include tablet {
+        width: 25%;
+    }
+}

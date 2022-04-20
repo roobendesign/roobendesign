@@ -8,7 +8,9 @@ categories: blog-post
 thumbnail: /assets/bp-images/blog-post-thumbnail.png
 ---
 
-After taking a few weeks break from coding and blogging I’m back with a new project  
+After taking a break from coding and blogging for a few weeks I’m back!  
+
+## What I'm Planning On Doing for this Project
 
 I’ve decided to create a set of icons and I’m giving them away for free.  Instead of creating the set of icons and putting them into a .zip file I decided to take it one step further. 
 

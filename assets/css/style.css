@@ -1,3 +1,4 @@
+@charset "UTF-8";
 body {
   overflow-x: hidden !important;
   font-family: 'Archivo';
@@ -157,45 +158,75 @@ img {
   max-width: 11.5px;
 }
 
+.home-page-hero {
+  background: #f2f2f2;
+}
+
+.home-page-hero .home-page-hero-inner-container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.home-page-hero .home-page-hero-inner-container h1 {
+  padding: 50px 10px;
+}
+
+.home-page-hero .home-page-hero-inner-container h1 span {
+  font-size: 12px;
+}
+
+.home-page-hero .home-page-hero-inner-container h1 .hero-name {
+  font-size: 32px;
+  font-weight: 800;
+}
+
 .home-page-blog .hp-posts {
-  width: 90%;
-  height: 60%;
-}
-
-@media (min-width: 600px) {
-  .home-page-blog .hp-posts {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-  }
-}
-
-@media (min-width: 1280px) {
-  .home-page-blog .hp-posts {
-    width: 100%;
-  }
-}
-
-.home-page-blog .hp-posts .hp-post {
-  max-width: 415px;
-}
-
-@media (min-width: 1280px) {
-  .home-page-blog .hp-posts .hp-post {
-    max-width: 320px;
-  }
+  max-width: 1100px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin-top: 30px;
+  margin-bottom: 500px;
 }
 
 .home-page-blog .hp-posts .hp-post a h3 {
-  margin-top: 10px;
-  font-size: 20px;
+  min-height: 57px;
+  line-height: 150%;
+}
+
+.home-page-blog .hp-posts .hp-post a h3:hover {
+  color: #383737;
 }
 
 .home-page-blog .hp-posts .hp-post p {
   margin-top: 27px;
+  font-size: 14px !important;
   color: #383737;
+  line-height: 150%;
+  font-weight: 500;
+}
+
+.home-page-blog-post-title {
+  font-size: 14px !important;
+  font-weight: 800;
+}
+
+@media (min-width: 600px) {
+  .home-page-blog-post-title {
+    font-size: 18px !important;
+  }
+}
+
+.hp-post {
+  width: 50%;
+}
+
+@media (min-width: 767px) {
+  .hp-post {
+    width: 25%;
+  }
 }
 
 nav {
@@ -210,13 +241,14 @@ nav {
           align-items: center;
   height: 73px;
   width: 100%;
+  background: #f2f2f2;
 }
 
 nav a {
   color: #000;
   margin-right: 37px;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 12px;
 }
 
 .lh-section {
@@ -505,7 +537,11 @@ nav a {
 }
 
 .border {
-  border: 1px solid black;
+  border: 0 !important;
+}
+
+.margin {
+  margin: 10px;
 }
 
 .padding {
@@ -550,5 +586,26 @@ h1, h2, h3 {
 
 .box-1 .child {
   width: 50%;
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "“" "”" "‘" "’";
+}
+
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote p {
+  display: inline;
 }
 /*# sourceMappingURL=style.css.map */
