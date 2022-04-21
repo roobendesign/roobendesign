@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting Back To Coding & Making An SVG Icon Pack"
-date:   2022-03-13
+date:   2022-04-20
 permalink: /getting-back-to-coding-making-svg-icon-pack
 description: Taking a break, and making a set of of SVG icons free for download. Check out this Free Web Design Resource!
 categories: blog-post

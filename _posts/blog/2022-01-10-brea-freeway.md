@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Brea $99 Million Dollar Freeway Overhall"
-date:   2022-03-13
+date:   2022-04-20
 permalink: /brea-gets-better-freeway-access-is-your-business-ready-for-increase-in-foot-traffic
 description: "Improvements on the 57 Freeway in Brea Right Off Lambert Signal Productiviyt Increases in the Surrounding Area"
 categories: blog-post
