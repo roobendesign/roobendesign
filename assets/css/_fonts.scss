@@ -1,0 +1,37 @@
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+
+h1 {
+    font-size: 32px !important;
+    font-weight: 500 !important;
+
+    @include tablet {    
+        font-size: 48px !important;
+    }
+}
+
+h2 {
+    font-size: 24px !important;
+    line-height: 125%;
+}
+
+h3 {
+    font-size: 22px !important;
+    line-height: 125%;
+    margin-bottom: 35px !important;
+}
+
+h4 {
+    font-size: 20px !important;
+}
+
+p {
+    font-size: 16px !important;
+}
+
+
+h1,h2,h3 {
+    color: #000;
+}

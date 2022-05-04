@@ -1,16 +1,12 @@
-
 @import 'mixins';
 @import 'base';
-@import 'arrows';
+@import 'fonts';
+@import 'svg-icons';
 @import 'homepage';
 @import 'nav';
-@import 'lhwd';
 @import 'blog';
 @import 'post';
 
-.border {
-    border: 0 !important;
-}
 
 .margin {
     margin: 10px;
@@ -34,9 +30,6 @@ html.is-animating .transition-fade {
     margin: 0 auto;
 }
 
-h1,h2,h3 {
-    color: #000;
-}
 
 .flex-center {
     display: flex;
@@ -71,3 +64,7 @@ blockquote {
   blockquote p {
     display: inline;
   }
+
+strong {
+    font-weight: 500 !important;
+}

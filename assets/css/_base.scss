@@ -1,7 +1,5 @@
 body {
     overflow-x: hidden !important;
-    font-family: 'Archivo'  ;
-    margin: 0;
 }
 
 html {
@@ -20,24 +18,6 @@ html {
 
 .full-container {
     width: 100%;
-}
-
-h1 {
-    font-size: 36px !important;
-    font-weight: 500 !important;
-
-    @include tablet {    
-        font-size: 48px !important;
-    }
-}
-
-h2 {
-    font-size: 24px !important;
-
-}
-
-p {
-    font-size: 16px !important;
 }
 
 a {
