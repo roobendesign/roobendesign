@@ -1,20 +1,15 @@
 .home-page-hero {
 
-    .home-page-hero-inner-container {
-        max-width: 1100px;
-        margin: 0 auto;
+    h1 {
+        padding: 50px 10px;
+        text-transform: uppercase;
+        
+        .sub-header {
+            font-size: 18px;
+        }
 
-        h1 {
-            padding: 50px 10px;
-            text-transform: uppercase;
-            
-            .sub-header {
-                font-size: 18px;
-            }
-
-            .sub-para {
-                font-size: 18px;
-            }
+        .sub-para {
+            font-size: 18px;
         }
     }
 }
@@ -22,7 +17,6 @@
 .home-page-blog {   
     
     .hp-posts {
-        max-width: 1100px;
         display: flex;
         flex-wrap: wrap;
         margin-top: 30px;
@@ -34,12 +28,12 @@
             margin-bottom: 20px;
 
             a {
-                max-width:100px !important;
                 
                 h3 {
                     min-height: 40px;
                     line-height: 150%;
-                    font-size: 22px  !important;
+                    font-size: 18px !important;
+                    max-width: 300px;
 
                     &:hover {
                         color: #383737;
@@ -47,6 +41,8 @@
 
                     @include tablet {
                         min-height: 60px;
+                        font-size: 22px !important;
+
                     }
                 }
             }
@@ -57,6 +53,7 @@
                 color: #383737;
                 line-height: 150%;
                 font-weight: 400;
+                max-width: 300px;
             }
         }
         
@@ -75,6 +72,4 @@
 
 .hp-post {
     width: 50%;
-    
-  
 }

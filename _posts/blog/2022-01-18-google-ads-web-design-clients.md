@@ -12,21 +12,23 @@ One of the biggest problems I had when I first started taking web design serious
 
 I had no idea what I was doing.
 
-Up until that point I was able to design and create a website from scratch but the idea of finding someone to give me money for them was something I hadn't even thought about.
+I was able to design and create websites from scratch but the idea of finding someone to give me money for them was something I had not even given thought to.
 
 ## Looking For Answers & Taking A Risk With The Little Bit of Money I Had
-I Googled tirelessly for ways to find clients, but being young and self taught made a lot of sound information sound too good to be true.  
+I searched tirelessly on Google for ways to find clients, but being young and self taught made a lot of sound information sound too good to be true.  
 
 After a while of searching I decided I only had two options. 
 
 The first one was to keep creating mock up websites with the hope that someone eventually finds my work and wants to hire me.  
 
-The second was to risk a few bucks and run some ads.
+The second was to risk a few bucks and run some ads promoting my services.
 
 I was eager to jump into the web design space so I opted for the latter.
 
 ### Learning How To Use Google Ads and Creating Effective Landing Pages
-Now the only problem I had was not knowing how to use Google Ads, or so I thought.  Turns out theirs way more to just running an ad to having a successful marketing effort.
+The only problem I had was not knowing how to use Google Ads, or so I thought.  
+
+Turns out there's way more to just running an ad to having a successful marketing effort, who would've guessed.
 
 On top of learning how to use Google ads I also had to learn how to create effective landing pages and how to write convincing copy, and everything in between. 
 

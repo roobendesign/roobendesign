@@ -8,7 +8,7 @@ categories: blog-post
 thumbnail: /assets/bp-images/blog-post-thumbnail.png
 ---
 
-Looking for someone to help you with your Brea Based Business's Website?
+Looking for someone to help you with your Brea businesses website?
 
 Hello! I'm Ruben and I want to help you.
 
@@ -23,4 +23,4 @@ While not every business has a website it's becoming more necessary each year fo
 #### Brea Business News
 
 
-[$99 Million Dollar Freeway Renovation Means Higher Productivity For Brea...](http://rooben.design/:4000/brea-website-design-services)
+[$99 Million Dollar Freeway Renovation Means Higher Productivity For Brea](https://rooben.design/brea-website-design-services)
