@@ -1,0 +1,65 @@
+.fullerton-hero {
+    border: 1px solid black;
+    height: 550px !important;
+
+    .fullerton-hero-information {
+        width: 60%;
+        border: 1px solid black;
+        max-width: 350px;
+        margin-top: 70px;
+
+        h1 {
+            font-size: 32px !important;
+        }
+
+        p {
+            font-size: 16px !important;
+        }
+    }
+}
+
+.fullerton-services {
+    height: 1000px;
+    border: 1px solid black;
+
+    .fullerton-services-title {
+        max-width: 80%;
+        margin: 40px auto;
+        text-align: center;
+    }
+
+    p {
+        font-size: 16px !important;
+        max-width: 500px;
+        margin: 0 auto;
+
+    }
+
+    h2 {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    .fullerton-service {
+        margin-top: 90px;
+
+        @include laptop {
+            display: flex;
+            margin-top: 180px;
+
+        }
+        .f-service {
+            max-width: 420px;
+            border: 1px solid black;
+            margin: 0 auto;
+
+            h3 {
+                font-size: 20px !important;
+            }
+
+            p {
+                font-size: 16px;
+            }
+        }
+    }
+}

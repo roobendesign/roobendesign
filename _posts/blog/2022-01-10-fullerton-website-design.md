@@ -1,44 +1,36 @@
 ---
 layout: post
-title:  "Fullerton Website Design Services"
-date:   2022-04-20
+title:  "Fullerton Website Design Services - Get A Killer Deal On Your Website"
+date:   2022-05-05
 permalink: /fullerton-website-design-services
 description: "Let's Work On Your Business's Website, Fullerton Website Designer"
 categories: blog-post
 thumbnail: /assets/bp-images/blog-post-thumbnail.png
 ---
 
-Are you looking for website design services in the Fullerton, CA area?
+## Fullerton Website Design Services
+Are You Looking for Website Design Services In the Fullerton, CA area?
+Hello, my name is Ruben Gutierrez and I'm A Website Designer
 
-Hello, my name is Ruben Gutierrez and I'm a website designer. 
+## How I Can Help Your Fullerton Business
+My goal as a website developer is to help people looking to start a business use tools like websites and search engines to improve the visibility of their startup. Websites are important telecommunications tools that can help you ga
 
-## Why your Fullerton business should have a website
+### Website Development
+Let's redesign or create your website  that accurately represents what you do.
+
+### Business Solutions
+A website is more than just a fancy digital ad.  With a website you can also create more effective lines of communication with your clients along with improving your businesses work flow.
+        
+### SEO Services
+Optimize your website to attract customers within Fullerton and the surrounding Orange County Area.
+
+Make sure people are able to find you when they do Google searches for the 
+
+#### Why Your Fullerton Business Should Have A Website
 
 * With a little over 140,000 people living in Fullerton, their is no shortage of potential customers
 
-* A thriving downtown area, Down Town Fullerton (DTF), that attracts locals from all over the region.
-
-
-### How I can Help Your Fullerton Business
-My goal as a website developer is to help people looking to start a business 
-
-**Website Development**
-
-Let's Redesign or Create your website  that accurately represents what you do.
-
-**Business Solutions** 
-A website can do more for you than just present your business in the right light.  With the right business solutions you can stay in touch with your customers. 
-
-
-**SEO Services**
-
-Optimize your website to attract customer within Fullerton and the surrounding Orange County Area.  
-
-
-#### My Goal As A Website Designer
-
-Every business eventually needs a website.  My goal is to help Fullerton business owners and self starters get a better understading of how internet 
-communication can help them achieve their goals even in their areas.
+* A thriving downtown area, Down Town Fullerton (DTF), that attracts locals from all over the region. 
 
 #### Website Design & Search Engine Optimization Services in Fullerton California
 

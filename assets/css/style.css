@@ -311,6 +311,75 @@ p {
   line-height: 1.6em;
 }
 
+.fullerton-hero {
+  border: 1px solid black;
+  height: 550px !important;
+}
+
+.fullerton-hero .fullerton-hero-information {
+  width: 60%;
+  border: 1px solid black;
+  max-width: 350px;
+  margin-top: 70px;
+}
+
+.fullerton-hero .fullerton-hero-information h1 {
+  font-size: 32px !important;
+}
+
+.fullerton-hero .fullerton-hero-information p {
+  font-size: 16px !important;
+}
+
+.fullerton-services {
+  height: 1000px;
+  border: 1px solid black;
+}
+
+.fullerton-services .fullerton-services-title {
+  max-width: 80%;
+  margin: 40px auto;
+  text-align: center;
+}
+
+.fullerton-services p {
+  font-size: 16px !important;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.fullerton-services h2 {
+  font-size: 32px;
+  text-align: center;
+}
+
+.fullerton-services .fullerton-service {
+  margin-top: 90px;
+}
+
+@media (min-width: 1280px) {
+  .fullerton-services .fullerton-service {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 180px;
+  }
+}
+
+.fullerton-services .fullerton-service .f-service {
+  max-width: 420px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+
+.fullerton-services .fullerton-service .f-service h3 {
+  font-size: 20px !important;
+}
+
+.fullerton-services .fullerton-service .f-service p {
+  font-size: 16px;
+}
+
 .margin {
   margin: 10px;
 }
