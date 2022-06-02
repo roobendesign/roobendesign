@@ -5,18 +5,19 @@ layout: default
    
 <div class="container border home-page-hero">
    <h1>
-      <div class="sub-header"p>Hello I'm</div>
-      <div class="title">RUBEN GUTIERREZ</div>
-      <div class="sub-para">A Website Designer Located in Orange County, CA</div>
+      <div class="title">Ruben Gutierrez</div>
+      <div class="about">Website Designer Based Orange County, CA</div>
+      <a class="button" href="/about">Let's Talk</a>
    </h1>
 </div>
 
 <div class="container home-page-blog border ">
    <div class="hp-posts border center">
 
-   {% for post in site.posts %}
+   {% for post in site.posts limit:4 %}
       {% if post.categories contains 'blog-post' %}
          <div class="hp-post padding border"> 
+            <img src="{{post.image}}" alt="">
 
             <a href="{{ post.url | absolute_url }}">
                <h3 class="home-page-blog-post-title">{{post.title | truncatewords: 10}}</h3>
@@ -26,7 +27,7 @@ layout: default
 
          </div>
       
-      {% endif %}
+      {% endif %} 
    {% endfor %}
    </div>
 </div>

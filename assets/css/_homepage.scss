@@ -3,37 +3,66 @@
     h1 {
         padding: 50px 10px;
         text-transform: uppercase;
+        font-size: 40px !important;
+        margin: 20px 0 40px 0;
         
-        .sub-header {
-            font-size: 18px;
+        .title {
+            font-weight: 700; 
+        }
+        
+        .about {
+            font-size: 16px !important;
+            font-weight: 500;
+            text-transform: none !important;
+            margin-top: 20px;
+            margin-bottom: 20px;
         }
 
-        .sub-para {
-            font-size: 18px;
+        .button {
+            border: 2px solid black;
+            height: 45px;
+            font-size: 16px;
+            text-transform: none !important;
+            color: #fff;
+            padding: 14px 30px;
+            background: #000;
         }
     }
 }
 
 .home-page-blog {   
+    margin-bottom: 100px;
     
     .hp-posts {
-        display: flex;
-        flex-wrap: wrap;
         margin-top: 30px;
-        margin-bottom: 300px;
+        max-width: 1000px;
+        margin: 0 auto;
+        justify-content: center;
 
-        .hp-post {
-            padding: 20px;
-            margin-top: 20px;
-            margin-bottom: 20px;
+
+        @include tablet {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+    .hp-post {
+            margin-top: 10px;
+            margin-bottom: 10px;
+            margin: 0 auto 40px;
+
+
+            @include tablet {
+                width: 45%;
+                margin: 0;
+            }
 
             a {
                 
                 h3 {
-                    min-height: 40px;
                     line-height: 150%;
-                    font-size: 18px !important;
-                    max-width: 300px;
+                    font-size: 16px !important;
+                    margin-bottom: 0 !important;
 
                     &:hover {
                         color: #383737;
@@ -41,19 +70,17 @@
 
                     @include tablet {
                         min-height: 60px;
-                        font-size: 22px !important;
-
+                        font-size: 20px !important;
                     }
                 }
             }
 
             p {
-                margin-top: 27px;
                 font-size: 16px !important;
                 color: #383737;
                 line-height: 150%;
                 font-weight: 400;
-                max-width: 300px;
+                margin-top: 10px;
             }
         }
         
@@ -70,6 +97,4 @@
     }
 }
 
-.hp-post {
-    width: 50%;
-}
+

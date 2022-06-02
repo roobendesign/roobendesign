@@ -4,7 +4,7 @@ title:  "Spending $75 on Google Ads & Making $1200 & 3 New Web Design Clients"
 date:   2022-04-20
 permalink: /spending-75-on-google-ads-making-1200
 description: How I managed to get my first few clients using Google Ads and a few bucks.
-categories: blog-post
+categories: blog-post bp
 thumbnail: /assets/bp-images/blog-post-thumbnail.png
 ---
 

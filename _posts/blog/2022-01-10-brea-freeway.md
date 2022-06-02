@@ -4,7 +4,7 @@ title:  " $99 Million Dollar Freeway Renovation Means Higher Productivity For Br
 date:   2022-04-20
 permalink: /brea-gets-better-freeway-access-is-your-business-ready-for-increase-in-foot-traffic
 description: "Improvements on the 57 Freeway in Brea Right Off Lambert Signal A Higher Flow of Foot Traffic"
-categories: blog-post
+categories: blog-post 
 thumbnail: /assets/bp-images/blog-post-thumbnail.png
 ---
 

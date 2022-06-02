@@ -38,7 +38,7 @@ img {
 }
 
 body {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Archivo', sans-serif;
 }
 
 h1 {
@@ -108,37 +108,75 @@ h1, h2, h3 {
 .home-page-hero h1 {
   padding: 50px 10px;
   text-transform: uppercase;
+  font-size: 40px !important;
+  margin: 20px 0 40px 0;
 }
 
-.home-page-hero h1 .sub-header {
-  font-size: 18px;
+.home-page-hero h1 .title {
+  font-weight: 700;
 }
 
-.home-page-hero h1 .sub-para {
-  font-size: 18px;
-}
-
-.home-page-blog .hp-posts {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-  margin-top: 30px;
-  margin-bottom: 300px;
-}
-
-.home-page-blog .hp-posts .hp-post {
-  padding: 20px;
+.home-page-hero h1 .about {
+  font-size: 16px !important;
+  font-weight: 500;
+  text-transform: none !important;
   margin-top: 20px;
   margin-bottom: 20px;
 }
 
+.home-page-hero h1 .button {
+  border: 2px solid black;
+  height: 45px;
+  font-size: 16px;
+  text-transform: none !important;
+  color: #fff;
+  padding: 14px 30px;
+  background: #000;
+}
+
+.home-page-blog {
+  margin-bottom: 100px;
+}
+
+.home-page-blog .hp-posts {
+  margin-top: 30px;
+  max-width: 1000px;
+  margin: 0 auto;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+@media (min-width: 767px) {
+  .home-page-blog .hp-posts {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+}
+
+.home-page-blog .hp-posts .hp-post {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin: 0 auto 40px;
+}
+
+@media (min-width: 767px) {
+  .home-page-blog .hp-posts .hp-post {
+    width: 45%;
+    margin: 0;
+  }
+}
+
 .home-page-blog .hp-posts .hp-post a h3 {
-  min-height: 40px;
   line-height: 150%;
-  font-size: 18px !important;
-  max-width: 300px;
+  font-size: 16px !important;
+  margin-bottom: 0 !important;
 }
 
 .home-page-blog .hp-posts .hp-post a h3:hover {
@@ -148,17 +186,16 @@ h1, h2, h3 {
 @media (min-width: 767px) {
   .home-page-blog .hp-posts .hp-post a h3 {
     min-height: 60px;
-    font-size: 22px !important;
+    font-size: 20px !important;
   }
 }
 
 .home-page-blog .hp-posts .hp-post p {
-  margin-top: 27px;
   font-size: 16px !important;
   color: #383737;
   line-height: 150%;
   font-weight: 400;
-  max-width: 300px;
+  margin-top: 10px;
 }
 
 .home-page-blog-post-title {
@@ -173,17 +210,13 @@ h1, h2, h3 {
   }
 }
 
-.hp-post {
-  width: 50%;
-}
-
 nav {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: end;
-      -ms-flex-pack: end;
-          justify-content: flex-end;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -191,7 +224,17 @@ nav {
   width: 100%;
 }
 
-nav a {
+nav .logo {
+  margin-left: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+nav .links a {
   color: #000;
   margin-right: 37px;
   text-decoration: none;
@@ -262,37 +305,46 @@ nav a {
   }
 }
 
-.post {
+.post-section {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.post-section .post {
   max-width: 750px;
-  margin: 100px auto 125px;
+  margin: 100px 20px 125px;
   padding: 0 20px;
 }
 
-.post header {
+.post-section .post header {
   margin-bottom: 20px;
 }
 
-.post header h1 {
-  font-weight: 500 !important;
-  font-size: 38px !important;
+.post-section .post header h1 {
+  font-weight: 600 !important;
+  font-size: 34px !important;
   margin-bottom: 16px;
   line-height: 125%;
 }
 
-.post p, .post li {
+.post-section .post p, .post-section .post li {
   margin-top: 20px;
   margin-bottom: 20px;
   letter-spacing: .2px;
   line-height: 1.5 !important;
 }
 
-.post ul, .post h2, .post h3, .post h4 {
+.post-section .post ul, .post-section .post h2, .post-section .post h3, .post-section .post h4 {
   margin-bottom: 20px !important;
   margin-top: 35px !important;
   font-weight: 500 !important;
 }
 
-.post .h3, .post h4 {
+.post-section .post .h3, .post-section .post h4 {
   margin-bottom: 35px !important;
 }
 
@@ -307,7 +359,7 @@ li {
 }
 
 p {
-  font-size: 20px !important;
+  font-size: 1.4em;
   line-height: 1.6em;
 }
 
