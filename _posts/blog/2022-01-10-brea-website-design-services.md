@@ -35,3 +35,7 @@ My goal as a website developer is to help business owners and self starters use 
 
 When you work with me you can expect a friendly service that will exceed your expectations.
 
+##### Brea Business News
+[$99 Million Dollar Freeway Renovation Means Higher Productivity For Brea
+](https://rooben.design/brea-gets-better-freeway-access-is-your-business-ready-for-increase-in-foot-traffic).
+
