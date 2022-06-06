@@ -8,7 +8,7 @@ twitter_username: roobendesign
 github_username:  roobendesign
 
 sass:
-    sass_dir: _sass
+  sass_dir: _sass
 
 # Build settings
 theme: 

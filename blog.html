@@ -7,11 +7,11 @@ permalink: /blog/
 <div class="container">
 
     <div class="blog-title">
-        <h1>Blog</h1>
+        <h1>Blog Posts</h1>
         <p class="blog-sub-title">What I'm up too and my thoughts</p>
     </div>
 
-    <div class="blog">
+    <div class="blog-section">
         {% for post in site.posts %}
             {% if post.categories contains 'blog-post' %}
                 <div class="blog-entry">

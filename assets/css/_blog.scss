@@ -1,32 +1,20 @@
 .blog-title {
-    max-width: 528px !important;
-    text-align: center;
     margin-top: 60px;
-    margin: 60px auto 0;
-    font-weight: 500 !important;
 
     .blog-sub-title {
-        color: #848484;
-        max-width: 315px;
         line-height: 150%;
-        margin: 0 auto;
-
     }
 }
 
-.blog {
-    width: 95%; 
+.blog-section {
     margin: 80px auto 120px;
-
 
     .blog-entry {
         margin: 0 auto 80px;
         padding: 0 10px;
-        max-width: 570px;
-        text-align: left;
+        width: 75%;  
 
         a {
-            text-decoration: none;
             color: #000;
             transition: .5s;
 
@@ -35,9 +23,8 @@
             }
 
             h2 {
-                max-width: 445px;
                 line-height: 150%;
-                font-size: 18px !important;
+                font-size: 18px;
                 font-weight: 500 !important;
 
                 @include tablet {
@@ -50,7 +37,6 @@
             color: #848484;
             margin-top: 15px;
             line-height: 1.5 !important;
-            font-size: 14px !important;
 
             @include tablet {
                 font-size: 18px;

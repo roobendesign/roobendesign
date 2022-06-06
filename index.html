@@ -12,21 +12,20 @@ layout: default
 </div>
 
 <div class="container home-page-blog border ">
+
+   <h2>Blog Posts</h2>
    <div class="hp-posts border center">
 
-   {% for post in site.posts limit:4 %}
+   {% for post in site.posts limit: 6 %}
       {% if post.categories contains 'blog-post' %}
-         <div class="hp-post padding border"> 
+         <div class="hp-post border"> 
             <img src="{{post.image}}" alt="">
 
             <a href="{{ post.url | absolute_url }}">
                <h3 class="home-page-blog-post-title">{{post.title | truncatewords: 10}}</h3>
             </a>
-   
-            <p>{{post.description | truncatewords: 15}}</p>
 
          </div>
-      
       {% endif %} 
    {% endfor %}
    </div>

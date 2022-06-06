@@ -4,6 +4,7 @@ nav {
     align-items: center;
     height: 73px;
     width: 100%;
+    border-bottom: 1px rgb(179, 179, 179) !important;
 
 
     .logo {
@@ -13,11 +14,13 @@ nav {
     }
     
     .links {
+
         a {
             color: #000;
             margin-right: 37px;
             text-decoration: none;
-            font-size: 14px;
+            font-size: 12px;
+            text-transform: uppercase;
         }
     }
 }
