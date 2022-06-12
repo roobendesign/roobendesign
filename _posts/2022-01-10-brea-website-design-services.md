@@ -5,7 +5,7 @@ date:   2022-06-01
 permalink: /brea-website-design-services
 description: "Website Development and Design Services."
 categories: blog-post
-thumbnail: /assets/bp-images/blog-post-thumbnail.png
+thumbnail: 
 ---
 Looking for someone to help you with your website?
 
@@ -29,6 +29,9 @@ Setting up new software for your WordPress website can get a little tricky.  Whe
 
 ### Basic Website Concepts
 In order to have a successful website you need to know some of the basics.  Websites and SEO can be difficult topics to follow along with which is why on top of the services that I provide I also take the time to help familiarize my clients with the concepts around it without making it difficult to understand.
+
+### Pay Per Click Advertisment
+SEO can take a few months to see results if your looking for something by the end of the work week PPC advertisment can help you can infront of people right away.  I can create campaigns with landing pages that will get people on the phone with you immediately.
 
 #### What You Can Expect From Me
 My goal as a website developer is to help business owners and self starters use internet technologies to help improve the way they do business. 

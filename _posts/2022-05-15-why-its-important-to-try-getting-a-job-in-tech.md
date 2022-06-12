@@ -6,7 +6,7 @@ permalink: /why-its-important-to-just-try-getting-a-job-in-tech
 description: "How to get a job in the tech industry without any certification"
 categories: blog-post bp
 thumbnail: /assets/bp-images/blog-post-thumbnail.png
-image: /assets/just-try.png
+image: 
 ---
 
 When I'm working on projects I tend to consume a lot of content about tech.  The reason I do this is because it helps me focus and it keeps me up-to-date on what's going on in the world of technology.

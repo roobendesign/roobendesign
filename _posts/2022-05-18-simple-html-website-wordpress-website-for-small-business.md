@@ -6,7 +6,7 @@ permalink: /simple-html-website-vs-wordpress-website-for-small-business
 description: "Improvements on the 57 Freeway in Brea Right Off Lambert Signal A Higher Flow of Foot Traffic"
 categories: blog-post bp
 thumbnail: /assets/bp-images/blog-post-thumbnail.png
-image: /assets/wordpress-vs-html.png
+image: 
 ---
 
 If you are trying to decide on a website solution for your small business and you don’t know if you need a basic HTML site or something more robust like WordPress the world's most popular CMS then consider some of the following questions.

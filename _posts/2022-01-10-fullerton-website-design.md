@@ -5,10 +5,9 @@ date:   2022-05-05
 permalink: /fullerton-website-design-services
 description: "Let's Work On Your Business's Website, Fullerton Website Designer"
 categories: blog-post
-thumbnail: /assets/bp-images/blog-post-thumbnail.png
+thumbnail: 
 ---
 
-## Fullerton Website Design Services
 Are You Looking for Website Design Services In the Fullerton, CA area?
 Hello, my name is Ruben Gutierrez and I'm A Website Designer
 

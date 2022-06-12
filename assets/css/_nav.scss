@@ -3,8 +3,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     height: 73px;
-    width: 100%;
-    border-bottom: 1px rgb(179, 179, 179) !important;
+    border-bottom: 1px rgb(0, 0, 0) !important;
 
 
     .logo {
@@ -18,9 +17,9 @@ nav {
         a {
             color: #000;
             margin-right: 37px;
-            text-decoration: none;
-            font-size: 12px;
+            font-size: 14px;
             text-transform: uppercase;
+            font-weight: 500;
         }
     }
 }

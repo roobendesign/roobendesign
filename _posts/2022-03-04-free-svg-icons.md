@@ -5,7 +5,7 @@ date:   2022-06-01
 permalink: /svg-icons
 description: "A Free Line Icon Pack For Your Next Design"
 categories: blog-post
-thumbnail: /assets/bp-images/blog-post-thumbnail.png
+thumbnail: 
 ---
 
 I made this set of line Icons, you can download them free of charge.
