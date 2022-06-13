@@ -29,14 +29,6 @@ html.is-animating .transition-fade {
     justify-content: center;
 }
 
-.box-1 {
-    display: flex;
-    
-    .child {
-        width: 50%;
-    }
-}
-
 blockquote {
     background: #f9f9f9;
     border-left: 10px solid #ccc;
@@ -79,3 +71,36 @@ code {
     padding: .1rem .3rem .2rem;
     border-radius: .2rem;
   }
+
+// Brea Design Classes
+.services {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+    .service {
+        width: 50%;
+        margin: 10px 0;
+
+        h3 {
+            font-size: 18px;
+        }
+
+        p {
+            font-size: 14px;
+        }
+
+        @include phablet {
+            width: 30%;
+        }
+    }
+}
+
+.hero {
+    margin: 50px auto;
+
+    h1 {
+        font-size: 40px;
+        font-weight: 600;
+    }
+}
