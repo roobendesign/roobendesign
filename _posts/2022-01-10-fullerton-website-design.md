@@ -9,32 +9,42 @@ thumbnail:
 ---
 
 Are You Looking for Website Design Services In the Fullerton, CA area?
-Hello, my name is Ruben Gutierrez, and I'm A Website Designer
 
-## How I Can Help Your Fullerton Business
-My goal as a website developer is to help people looking to start a business use tools like websites and search engines to improve the visibility of their startup. 
+Hello, I am Ruben Gutierrez, a Website Designer, and I want to help you with your site.
 
-Websites are important telecommunications tools that can help you complete the necessary tasks that come with operating a successful business.
-
-### Website Development
-Let's redesign or create your website that accurately represents what you do.
-
-### Business Solutions
-A website is more than just a fancy digital ad.  With a website you can also create more effective lines of communication with your clients along with improving your businesses work flow.
-        
-### SEO Services
-Optimize your website to attract customers within Fullerton and the surrounding Orange County Area.
-
-Make sure people are able to find you when they do Google searches for the 
-
-### WordPress Fullerton
-Are you looking to edit your [WordPress](https://rooben.design//what-is-wordpress-why-your-first-website-should-be-a-wordpress-website) Website for your Fullerton business.
-
-#### Why Your Fullerton Business Should Have A Website
+## Why Your Fullerton Business Should Have A Website
 
 * With a little over 140,000 people living in Fullerton, there is no shortage of potential customers
 
 * A thriving downtown area, Down Town Fullerton (DTF), that attracts locals from all over the region. 
+
+## How I Can Help You or Your Fullerton Business
+My goal as a website developer is to help people looking to start a business or further their career use tools like websites and search engine to improve their business.
+
+Below you'll find some of the services that I provide that can help make your life a bit smoother.
+
+### Website Development
+If you have not yet decided to create a website for you or your business then you are missing out.
+
+Investing in a website for you or your Fullerton business can help open the doors to potential customers and numerous possibilities.
+
+Website have become an important part of operating a business and establishing yourself especially now in 2022 where everything seems to be getting more and more digital.  
+
+More people are online now than ever which is why it's important to create a space online where people can access information about you and your business.
+
+Social media is a good alternative but having your own website gives you some added benefits that changing platforms like Instagram and Facebook just don't offer.
+
+### Helping You Grasp The Basics
+When you succede I do too, for this reason it's become very important for me that I thourogly explain the process of using 
+        
+### SEO Services For Your Fullerton Business
+Optimize your website to attract customers within Fullerton and the surrounding Orange County Area.
+
+Make sure people are able to find you when they do Google searches for the products and services that you offer. 
+
+### WordPress Fullerton
+Are you looking to edit your [WordPress](https://rooben.design//what-is-wordpress-why-your-first-website-should-be-a-wordpress-website) Website for your Fullerton business.
+
 
 #### Website Design & Search Engine Optimization Services in Fullerton California
 

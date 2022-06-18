@@ -19,34 +19,38 @@ Every business can benefit from having a website.
 
 With a website you can accomplish a lot of the important tasks that come with running a successful business.
 
-Websites are amazing communication tools that can help you find customers along with optimizing the way you operate your business.
-
-I can help set you up with a website solution that will reflect your business perfectly.
+Websites are amazing communication tools that can help you find customers along with optimizing the way you run your business.
 
 ### Web/Graphic Design
 Does your website look a bit dated, does it behave oddly, or are you just ready for a new look? The way your website looks matters. 
 
 We can work together to create a unique look for your Brea business that presents your brand, products, and services in an elegant and appropriate way.
 
-### Search Engine Optimization 
-Looking for customers? Websites are the perfect tool to help get your business found.  With a website you can create content about the industry you're in and optimize it for Google and the other search engines.  With SEO, you can even increase your foot traffic from locals in Brea and the surrounding area.
+### Search Engine Optimization For Your Brea Website
+Looking for customers in the Brea and surrounding area? Websites are the perfect tool to help get your business found online. 
 
-### WordPress Websites
+With a website you can create content about the industry you're in and optimize it for Google so that you can get found.
+
+With SEO, you can even increase your foot traffic from locals in Brea and the surrounding area.
+
+### WordPress Website Services
 Are you looking to make some adjustment to your WordPress website?
 
-Setting up new software for your [WordPress](https://rooben.design/what-is-wordpress-why-your-first-website-should-be-a-wordpress-website) website can get a little tricky.  Whether you need to add some functionality with a plugin or you're choosing a new theme I can help guide you in the right direction. 
+Setting up themes and plugins for your [WordPress](https://rooben.design/what-is-wordpress-why-your-first-website-should-be-a-wordpress-website) website can get a little tricky.  Whether you need to add some functionality or redesign the way it looks, I can help guide you through the process and make it look and work exactly how you envisioned it.
 
-### Basic Website Concepts
-In order to have a successful website you need to know some basics about them.
+### Basic Website Understanding
+In order to have a successful website you need to know some basics about how they work and what creates a successful one.
 
-Because Websites and Search Engines can be difficult topics to follow along with I also take the time to help familiarize my clients with the basics without making it difficult to understand.
+The vocabulary around Websites and Search Engines can make them difficult topics to follow along with which is why one of my goals is to help familiarize you and the people I work with about these concepts without making it difficult to understand.
 
 ### Pay Per Click Advertisement (Google Ads)
 Optimizing your website for the search engines can take some time to see tangible results.  
 
-If you're looking for something by the end of the work week PPC advertisement can get you in front of people who are ready to make a transaction.
+If you're looking to make sales by the end of the work week PPC (Pay Per Click) advertisement can get you in front of people who are ready to make a transaction.
 
-I can create campaigns by using effective landing pages that will get people on the phone with you immediately.
+PPC is a more direct method
+
+I can help you create campaigns using effective landing pages that will get people on the phone with you immediately.
 
 #### What You Can Expect From Me
 My goal as a website developer is to help business owners and startups use internet technologies to help improve the way they do business. 

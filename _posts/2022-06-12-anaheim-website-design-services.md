@@ -22,7 +22,7 @@ With a population of about 350,000 people there is no shortage of foot traffic i
 
 Aside from its large population and its central attraction Anaheim is also home to two very iconic sports teams, The Anaheim Ducks (Hockey) and The Anaheim Angels (Baseball).
 
-People from all over the world fly in to spend a few days exploring the city so it's important that there's an easy way for them to find you, a website can help you do just that.
+People from all over the world fly in to spend a few days exploring the city, so it's important that there's an easy way for them to find you, a website can help you do just that.
 
 ## How I Can Improve Your Anaheim Business Website
 As a technology professional I help people and business use tools like websites and search engines to make it easier for them to accomplish their goals and excel in their lives.
@@ -34,7 +34,7 @@ Websites are a must in the modern business world. Having a website can help sepa
 
 When customers are looking through the many options in their area for a service or a product, having a website can give you the edge that will bring them to you.  
 
-**For smaller and medium sized businesses**, having a website where you can provide information and visuals about the products and services you offer will make it easier for potential customers to pick your business over the others.
+**For small and medium-sized businesses**, having a website where you can provide information and visuals about the products and services you offer will make it easier for potential customers to pick your business over the others.
 
 **For individuals looking to start a business**, investing in a website can help bring eyes to what you offer.  If you're working on something new, and you want to test the waters out blogging about it is the perfect way to get some traction.
 
