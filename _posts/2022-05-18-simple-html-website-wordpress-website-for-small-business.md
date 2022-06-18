@@ -24,3 +24,14 @@ If you need to constantly be updating your website and adding new content then W
 If just having a decently designed website with some contact and basic information is all you really care about then investing in a simple HTML website is the way to go.  With a simple HTML website you can deploy your website and have it live for years to come without ever really needing to do maintenance.  One of the pros of having a simple HTML website is that it usually tends to just work.  Its simple architecture makes it almost impossible to break unlike more robust technologies like CMS’s (WordPress) that require constant maintenance.
 
 One of the cons that comes with owning an HTML site is that not every website designer can work on it.  New CMS technologies like WIX or SQUARESPACE don’t really require a lot of hard coding.  This shift in website design has made it slightly harder to find designers that are familiar enough with the basics (HTML/CSS/JS) to make source code edits.  
+
+## Are you going to want to add content to your website?
+If you want the ability to add content  to your website than the better choice for you is WordPress.
+
+WordPress has such an easy to use interface that anyone can learn how to add content and make edits.  It takes less than an hour to learn the basics about posting. 
+
+## How much do you plan on spending on your website?
+If your looking for something simple and and your only trying to spend a one time fee than a simple HTML website is the better option.  
+
+On the other hand if you want something that has a lot more bells and whistles then WordPress is the better options.  Generally speaking it costs about $5 - $10 a month to buy hosting space on a server to run your WordPress website.  
+

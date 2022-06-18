@@ -9,13 +9,15 @@ thumbnail:
 ---
 
 Are You Looking for Website Design Services In the Fullerton, CA area?
-Hello, my name is Ruben Gutierrez and I'm A Website Designer
+Hello, my name is Ruben Gutierrez, and I'm A Website Designer
 
 ## How I Can Help Your Fullerton Business
-My goal as a website developer is to help people looking to start a business use tools like websites and search engines to improve the visibility of their startup. Websites are important telecommunications tools that can help you ga
+My goal as a website developer is to help people looking to start a business use tools like websites and search engines to improve the visibility of their startup. 
+
+Websites are important telecommunications tools that can help you complete the necessary tasks that come with operating a successful business.
 
 ### Website Development
-Let's redesign or create your website  that accurately represents what you do.
+Let's redesign or create your website that accurately represents what you do.
 
 ### Business Solutions
 A website is more than just a fancy digital ad.  With a website you can also create more effective lines of communication with your clients along with improving your businesses work flow.
@@ -25,14 +27,16 @@ Optimize your website to attract customers within Fullerton and the surrounding 
 
 Make sure people are able to find you when they do Google searches for the 
 
+### WordPress Fullerton
+Are you looking to edit your [WordPress](https://rooben.design//what-is-wordpress-why-your-first-website-should-be-a-wordpress-website) Website for your Fullerton business.
+
 #### Why Your Fullerton Business Should Have A Website
 
-* With a little over 140,000 people living in Fullerton, their is no shortage of potential customers
+* With a little over 140,000 people living in Fullerton, there is no shortage of potential customers
 
 * A thriving downtown area, Down Town Fullerton (DTF), that attracts locals from all over the region. 
 
 #### Website Design & Search Engine Optimization Services in Fullerton California
 
-Whether your a starting a business or your just looking to make your existing one run more efficiently, getting a website can help you 
-accomplish much more than just.
+Whether you're a starting a business or you're just looking to make your existing one run more efficiently, getting a website can help you accomplish much more than just.
 

@@ -4,8 +4,7 @@ title:  "Spending $75 on Google Ads & Making $1200 & 3 New Web Design Clients"
 date:   2022-04-20
 permalink: /spending-75-on-google-ads-making-1200
 description: How I managed to get my first few clients using Google Ads and a few bucks.
-categories: blog-post bppo
-thumbnail: 
+categories: blog-post 
 ---
 
 One of the biggest problems I had when I first started taking web design seriously was finding clients. 
@@ -14,8 +13,8 @@ I had no idea what I was doing.
 
 I was able to design and create websites from scratch but the idea of finding someone to give me money for them was something I had not even given thought to.
 
-## Looking For Answers & Taking A Risk With The Little Bit of Money I Had
-I searched tirelessly on Google for ways to find clients, but being young and self taught made a lot of sound information sound too good to be true.  
+## Looking For Answers & Taking A Risk With The Little Money I Had
+I searched tirelessly on Google for ways to find clients, but being young and self-taught made a lot of sound information sound too good to be true.  
 
 After a while of searching I decided I only had two options. 
 
@@ -23,25 +22,26 @@ The first one was to keep creating mock up websites with the hope that someone e
 
 The second was to risk a few bucks and run some ads promoting my services.
 
-I was eager to jump into the web design space so I opted for the latter.
+I was eager to jump into the web design space, so I opted for the latter.
 
 ### Learning How To Use Google Ads and Creating Effective Landing Pages
 The only problem I had was not knowing how to use Google Ads, or so I thought.  
 
 Turns out there's way more to just running an ad to having a successful marketing effort, who would've guessed.
 
-On top of learning how to use Google ads I also had to learn how to create effective landing pages and how to write convincing copy, and everything in between. 
+On top of learning how to use Google Ads I also had to learn how to create effective landing pages and how to write convincing copy, and everything in between. 
 
-After a couple weeks of fiddling around with Google Ads and learning as much about landing pages as I could I decided to get started.
+After a couple of weeks of fiddling around with the Google Ads software and learning as much about landing pages as I could, I decided to get started.
 
 I made a landing page with some effective visuals and a captivating sales pitch.  Then I filled out the Google Ad forms and pressed submit. Within a couple of hours my ad was approved and went live.
 
-I ran my ad for about a week.  I forgot about the ad for the first few days but was reminded by an email notification from one of my new clients. I checked my email where there were 2 other new emails from clients unopened.  After logging in to my Google Ads account I noticed I had only spent about $75.  I couldn’t believe it, I thought I was wasting my money.  After getting to know them and helping them make adjustments to their websites I made a little over $1200.
+I ran my ad for about a week.  I forgot about the ad for the first few days but was reminded by three email notifications that where from my new clients.
 
-If you’re new to website design and you're having a similar problem getting clients I strongly suggest you give Google Ads a try.  
+After logging in to my Google Ads account I noticed I had only spent about $75.  I couldn’t believe it, I thought I was wasting my money.  After getting to know them and helping them make adjustments to their websites I made a little over $1200.
 
+If you’re new to website design, and you're having a similar problem getting clients I strongly suggest you give Google Ads a try.  
 
-#### Some Advice If Your New To Using Google Ads
+#### Some Advice If You're New To Using Google Ads
 For your best results, localize your ads.
 
 That means when you go to run your ad make sure you specify a location.  I recommend you go with cities with smaller population near you.
