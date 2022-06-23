@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Brea Website Design Services"
-date:   2022-06-01
+date:   2022-06-22
 permalink: /brea-website-design-services
 description: "Website Development and Design Services."
 categories: blog-post
@@ -32,8 +32,7 @@ The way your website looks is important.  Many people use a website's design to 
 
 Good design helps better present and communicate the products and services that you offer. 
 
-I can help you present your business and services in the right light.  From logo design to constant branding I'll bring
-
+I can help you present your business and services in the right light.  From logo design to consistent branding.
 
 ### Search Engine Optimization For Your Brea Website
 Are you looking for customers in Brea and the surrounding area? Investing in your websites search engine optimization is the perfect way to help your business get found online.
@@ -64,7 +63,7 @@ The theory and vocabulary surrounding website technologies can make it a little 
 
 For this reason I make it my goal to help the people I work with understand these topics to ensure they get the most benefit from them.
 
-When you work with me, you don't just get a bunch of yes's and no's you also get the why's and how. 
+When you work with me, you don't just get a bunch of yes's and no's you also get the why's how. 
 
 ### Pay Per Click Advertisement (Google Ads, Facebook Ads, etc.)
 
