@@ -1,24 +1,24 @@
 ---
 layout: post
-title:  "Brea Website Design Services"
+title:  "Brea Web Design"
 date:   2022-06-22
 permalink: /brea-website-design-services
-description: "Website Development and Design Services."
+description: "Get the attention your Brea Business Needs, Expert Web Designer Ready to Help Build The Website You Need"
 categories: blog-post
 thumbnail: 
 ---
-Looking for someone to help you with your website?
+Looking for someone to help you with your website in the Brea Area?
 
 Hello, my name is **Ruben Gutierrez**, and I am a website developer located near the Brea, CA area. 
 
 I’ve been working with computers since I was 6, and I enjoy helping others use technology to improve their lives.  
 
-## How I Can Help Your Brea Business
+## Brea Web Design Services
 Below are just a few ways that I can assist you. 
 
 If you have any questions and don't see information about your problem please feel free to contact me and tell me more. 
 
-### Website Development
+### Brea Web Development
 If you don't already have a website your missing out.
 
 With a website you can accomplish a lot of the important tasks that come with running a successful business.
@@ -34,7 +34,7 @@ Good design helps better present and communicate the products and services that 
 
 I can help you present your business and services in the right light.  From logo design to consistent branding.
 
-### Search Engine Optimization For Your Brea Website
+### SEO For Brea Website
 Are you looking for customers in Brea and the surrounding area? Investing in your websites search engine optimization is the perfect way to help your business get found online.
 
 Search Engine Optimization is the process of making adjustments to your website to try and improve it's ranking and visibility in search engines like Google. SEO is done with the purpose of increasing the amount of visitors that come to your website.
@@ -51,7 +51,7 @@ I can help you craft well-designed content that not only visually captures your 
 
 I can help you create a custom tools for your website.
 
-### WordPress Website Services
+### WordPress Web Design Services in Brea
 Are you looking to make some adjustment to your WordPress website?
 
 Setting up themes and plugins for your [WordPress](https://rooben.design/what-is-wordpress-why-your-first-website-should-be-a-wordpress-website) website can get a little tricky.  Whether you need to add some functionality or redesign the way it looks, I can help guide you through the process and make it look and work exactly how you envisioned it.
@@ -65,13 +65,12 @@ For this reason I make it my goal to help the people I work with understand thes
 
 When you work with me, you don't just get a bunch of yes's and no's you also get the why's how. 
 
-### Pay Per Click Advertisement (Google Ads, Facebook Ads, etc.)
-
+### Brea PPC Advertisement (Google Ads, Facebook Ads, etc.)
 Are you looking to get leads for your business by the end of the day?
 
 If you're looking for fast result then you might want to consider investing some money into PPC advertisement.
 
-PPC advertisement also known as **Pay Per Click** is a more direct method of getting leads for your business.
+PPC advertisement stand for **Pay Per Click**.  It is a more direct method of getting leads for your business.
 
 Unlike search engine optimization where you have to wait a couple of months to see tangible results from PPC advertisement works almost immediately.
 
@@ -88,10 +87,8 @@ I've successfully used Google Ads and some of these other platforms.  If you're 
 #### What You Can Expect From Me
 My goal as a website developer is to help business owners, individuals, and startups use the internet and web technologies to improve the way they do business. 
 
-When you work with me, you can expect a friendly service that will exceed your expectations.
-
 #### Contact
-If your interested in working together you can call me at **(562) 451-7656** or by email at **roobendesign@gmail.com**
+If your interested in working together or any other web design project you can call me at **(562) 451-7656** or email me at **roobendesign@gmail.com**
 
 ##### Brea Business News
 [$99 Million Dollar Freeway Renovation Means Higher Productivity For Brea](https://rooben.design/brea-gets-better-freeway-access-is-your-business-ready-for-increase-in-foot-traffic).
