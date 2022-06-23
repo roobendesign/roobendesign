@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Brea Website Design Services - Ruben Gutierrez, Local Website Designer"
+title:  "Brea Website Design Services"
 date:   2022-06-01
 permalink: /brea-website-design-services
 description: "Website Development and Design Services."
@@ -9,29 +9,48 @@ thumbnail:
 ---
 Looking for someone to help you with your website?
 
-Hello, my name is Ruben Gutierrez, and I am a website developer located in the Brea, CA area. I’ve been working with computers since I was young and enjoy helping others use technology to improve their lives.  
+Hello, my name is **Ruben Gutierrez**, and I am a website developer located near the Brea, CA area. 
+
+I’ve been working with computers since I was 6, and I enjoy helping others use technology to improve their lives.  
 
 ## How I Can Help Your Brea Business
-Below are just a few ways that I can assist you. If you have any questions about a problem that you don't see any information about below please feel free to contact me. 
+Below are just a few ways that I can assist you. 
+
+If you have any questions and don't see information about your problem please feel free to contact me and tell me more. 
 
 ### Website Development
-Every business can benefit from having a website.
+If you don't already have a website your missing out.
 
 With a website you can accomplish a lot of the important tasks that come with running a successful business.
 
-Websites are amazing communication tools that can help you find customers along with optimizing the way you run your business.
+Websites are very useful communication tools that can help improve the way your business operates and bring you customers.
+
+Every business can benefit from having a website.
 
 ### Web/Graphic Design
-Does your website look a bit dated, does it behave oddly, or are you just ready for a new look? The way your website looks matters. 
+The way your website looks is important.  Many people use a website's design to gauge how trustworthy it is.  If it looks wonky and out-of-date they're less likely to trust it but if it's sleek and modern they're far more likely to stick around and engage. 
 
-We can work together to create a unique look for your Brea business that presents your brand, products, and services in an elegant and appropriate way.
+Good design helps better present and communicate the products and services that you offer. 
+
+I can help you present your business and services in the right light.  From logo design to constant branding I'll bring
+
 
 ### Search Engine Optimization For Your Brea Website
-Looking for customers in the Brea and surrounding area? Websites are the perfect tool to help get your business found online. 
+Are you looking for customers in Brea and the surrounding area? Investing in your websites search engine optimization is the perfect way to help your business get found online.
 
-With a website you can create content about the industry you're in and optimize it for Google so that you can get found.
+Search Engine Optimization is the process of making adjustments to your website to try and improve it's ranking and visibility in search engines like Google. SEO is done with the purpose of increasing the amount of visitors that come to your website.
 
-With SEO, you can even increase your foot traffic from locals in Brea and the surrounding area.
+When you invest time, effort, and money into your website's SEO efforts you make it easier for people online to find you both on a global and local level.
+
+There are a lot of methods for performing search engine optimization on a website.  Here are just two ways that I can help you.
+
+**Content Creation** - One of those methods involves writing/creating informative content about what it is you do.  Creating content that answers questions about the field your not only helps display your knowledge but is also used by Google and the other search engines to determine who gets traffic. Search engines use the words and information on your website to recommend the best answers for searches, the more information you have on your website the more traffic you are likely to receive.
+
+I can help you craft well-designed content that not only visually captures your visitors but also provides informative content about what it is you do.
+
+**Creating Backlinks** - Another method of performing SEO for your website is by creating backlinks to it.  Creating backlinks is the most effective way of increasing your website's visibility.  The idea is simple all you have to do is get well known website's to link to your website.  There are many ways of going about this, one of the things I recommend doing is adding a free online tool for your website.  Offering a free tool like a quote/price calculators can help easily earn you a ton of backlinks from reputable website.  
+
+I can help you create a custom tools for your website.
 
 ### WordPress Website Services
 Are you looking to make some adjustment to your WordPress website?
@@ -39,21 +58,36 @@ Are you looking to make some adjustment to your WordPress website?
 Setting up themes and plugins for your [WordPress](https://rooben.design/what-is-wordpress-why-your-first-website-should-be-a-wordpress-website) website can get a little tricky.  Whether you need to add some functionality or redesign the way it looks, I can help guide you through the process and make it look and work exactly how you envisioned it.
 
 ### Basic Website Understanding
-In order to have a successful website you need to know some basics about how they work and what creates a successful one.
+In order to have a successful website you need to know the basics of how they work and what makes the good ones stand out.
 
-The vocabulary around Websites and Search Engines can make them difficult topics to follow along with which is why one of my goals is to help familiarize you and the people I work with about these concepts without making it difficult to understand.
+The theory and vocabulary surrounding website technologies can make it a little difficult to follow along with.
 
-### Pay Per Click Advertisement (Google Ads)
-Optimizing your website for the search engines can take some time to see tangible results.  
+For this reason I make it my goal to help the people I work with understand these topics to ensure they get the most benefit from them.
 
-If you're looking to make sales by the end of the work week PPC (Pay Per Click) advertisement can get you in front of people who are ready to make a transaction.
+When you work with me, you don't just get a bunch of yes's and no's you also get the why's and how. 
 
-PPC is a more direct method
+### Pay Per Click Advertisement (Google Ads, Facebook Ads, etc.)
 
-I can help you create campaigns using effective landing pages that will get people on the phone with you immediately.
+Are you looking to get leads for your business by the end of the day?
+
+If you're looking for fast result then you might want to consider investing some money into PPC advertisement.
+
+PPC advertisement also known as **Pay Per Click** is a more direct method of getting leads for your business.
+
+Unlike search engine optimization where you have to wait a couple of months to see tangible results from PPC advertisement works almost immediately.
+
+Some of the more well known PPC platforms include Google, Facebook, Instagram, and Twitter.  Wherever your customers hang out online chances are theirs a platform there to buy ad space from.
+
+In order to get the most out of these PPC platforms you need to know how to use the software and more importantly how to create effective ads. 
+
+Creating effective ads means writing captivating copy, putting together effective landing pages, and designing stunning visuals.
+
+Putting time and effort into crafting these things will ensure you get the most for your money.
+
+I've successfully used Google Ads and some of these other platforms.  If you're looking to expand your list of customers don't hesitate let's start your first campaign today.
 
 #### What You Can Expect From Me
-My goal as a website developer is to help business owners and startups use internet technologies to help improve the way they do business. 
+My goal as a website developer is to help business owners, individuals, and startups use the internet and web technologies to improve the way they do business. 
 
 When you work with me, you can expect a friendly service that will exceed your expectations.
 

@@ -3,35 +3,40 @@ layout: post
 title:  "What is WordPress & Why Your First Website Should Be A WordPress Website"
 date:   2022-06-12
 permalink: /what-is-wordpress-why-your-first-website-should-be-a-wordpress-website
-description: "Let's Work On Your Business's Website, Anaheim Website Designer"
+description: "WordPress is a software for creating websites. It's known as a CMS (Content Management System) and it's open source which means it's free to use."
 categories: blog-post
 ---
 
-WordPress is a software for creating websites. It's known as a CMS (Content Management System) and it's open source which means it's free to use.
+WordPress is a software that creates websites. WordPress is a CMS which stand for content management system.
 
-WordPress website account for about 2/5 of all the websites on the internet.
+Its open source which means it's free to use.  All you need is somewhere to host your files.
+
+WordPress is so commonly used to spin up websites that 2/5 of all the websites on the internet are WordPress Websites.
 
 ## Why Your First Website Should Be A WordPress Website
-Below I'll be talking about some of the reasons why your first website should be a WordPress website especially if this is your first website.
+Below I'll be talking about some reasons to why you should choose WordPress to make your first website.  
 
-### WordPress is Easy to Us
-The WordPress user interface is simple to understand.  With some basic knowledge anyone can start creating and posting content directly to their website With a few clicks.
+### WordPress is Easy to Use
+One of the reasons why WordPress is so ubiquitous is simply because it's so easy to set up and use.
 
-### The WordPress User Interface Is Simple
-Unlike static website or 
+With some basic understanding of the layout anyone can start creating and posting content with just a few clicks. 
 
-### WordPress allows you to focus on the content
-Unlike other methods of spinning up a website where you have to learn a bit of code or make a ton of setting adjustment WordPress allows you to focus on your content.  This is really important because without content theirs no reason for people to be on your website, content truly drives traffic to your website/business.
+You don't need to learn to code or adjust a bunch of settings you can simply log in and start adding content to your website.
 
-### Support For WordPress
-Because WordPress is such a widely used software you can find information/tutorials about it all over the internet.
+### WordPress Allows You to Focus on the Content
+WordPress was initially created with blogging in mind.  Unlike other methods of making a website where you have to learn a bit of or make a ton of setting adjustment WordPress allows you to focus on your content.  This is really important because without content theirs no reason for people to be on your website, content truly drives traffic to your website/business.
 
-For people just stepping into website design this can be very beneficial. 
+### Support For WordPress 
+Because WordPress is such a widely used software you can find information and tutorials about it all over the internet. 
+
+For people just stepping into website design this can be very beneficial, it can save you a lot of time and keep you 
 
 ### Accessibility
-You can literally log on to WordPress from any device even through mobile phones to make adjustment to your website. 
+Accessing the backend of a WordPress website is as easy as logging into your email.  You can literally log on to WordPress from any device even through mobile phones to make adjustment to your website. 
 
 WordPress allows you to access it's back directly from the browser which means you can be anywhere in the world and make changes to your website directly from you phone.
 
 ### WordPress Makes Adding Functionality Easy
-On top of it's ease of use for posting content WordPress also has a wide selection of plugins that allow you to add some pretty complex functionality with just a few clicks. 
+On top of it's ease of use for posting content WordPress also has a wide selection of plugins that allow you to add some complex features to your website.  
+
+Their is a plug in for everything. Do you want to see who's viewing your website theirs a plugin for that, do you need to accept digital documents theirs a plugin for that, or are you simp
