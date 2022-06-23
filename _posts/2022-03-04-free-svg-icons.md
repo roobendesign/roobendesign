@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Free SVG Line Icons - Download"
-date:   2022-06-01
+date:   2022-06-22
 permalink: /svg-icons
-description: "A Free Line Icon Pack For Your Next Design"
+description: "Free Line Icon Pack For Your Next Design"
 categories: blog-post
 thumbnail: 
 ---
